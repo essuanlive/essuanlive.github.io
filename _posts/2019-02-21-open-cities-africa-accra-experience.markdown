@@ -22,7 +22,7 @@ We recorded a few issues that were resolved this gave the team the Green light t
 
 <figure>
 	<img src="{{ '/assets/img/25_01.JPG' | prepend: site.baseurl }}" alt=""> 
-	<figcaption>The Field Data Collection team been dispatched to test the form on the field</figcaption>
+	<figcaption>The Field Data Collection team been dispatched to test the forms on the field</figcaption>
 </figure>
 
 <p align="justify">Data collection started on Monday, 28th of January 2019 Engaging with the community was challenging since majority of the populace had no idea about Open Cities Africa, HotOSM and the other organizations supporting the project.
