@@ -25,7 +25,7 @@ We recorded a few issues that were resolved this gave the team the Green light t
 	<figcaption>The Field Data Collection team been dispatched to test the forms on the field</figcaption>
 </figure>
 
-<p align="justify">Data collection started on Monday, 28th of January 2019 Engaging with the community was challenging since majority of the populace had no idea about Open Cities Africa, HotOSM and the other organizations supporting the project.
+<p align="justify">Data collection started on Monday, 28th of January 2019. Engaging with the community was challenging since majority of the populace had no idea about Open Cities Africa, HotOSM and the other organizations supporting the project.
 Fortunately, my team which consisted of six field data collectors were well vexed with the languages of the residents. This made it easier for us to interact with them.
 They residents expressed their concern of incidences of flooding which has affected them greatly. They also recounted of a flooding which killed a University student two years ago. The incidence has also caused serious erosion in the suburb. 
 This indeed was necessary for our work and also provide field data.</p>
