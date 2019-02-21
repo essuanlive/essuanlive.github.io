@@ -4,7 +4,7 @@ title:  "OCA Accra Experience"
 date:   2019-02-21
 ---
 
-<p class="" style="text-align:justify;"><span class="dropcap">A</span>ccra is one of the cities in Ghana which is noted as a flood prone urban area. This is as a result of the existence of population density. In efforts to minimize the occurrence of flooding, Open Cities Africa, an initiative of the World Bank is helping some African cities curb the menace. The aim of this project <a href="https://opencitiesproject.org/">Open Cities Africa</a> is to enable Accra attain the world's standard of a clean and resilient city.</p>
+<p class="" style="text-align:justify;"><span class="dropcap">A</span>ccra is one of the cities in Ghana which is noted as a flood prone urban area. This is as a result of the existence of population density,bad drainage system and improper dumping of waste materials. In efforts to minimize the occurrence of flooding, Open Cities Africa, an initiative of the World Bank is helping some African cities curb the menace. The aim of this project <a href="https://opencitiesproject.org/">Open Cities Africa</a> is to enable Accra attain the world's standard of a clean and resilient city.</p>
 
 
 <p align="justify"> The areas targeted in Accra which are flood-prone areas are; Alogboshie, Akweteyman, Alajo and Nima, located along the Odaw River. Open Cities, is putting in all efforts to contribute in mapping out these flood prone areas to make it easy to solve the menace.</p>
@@ -15,7 +15,7 @@ date:   2019-02-21
 </figure>
 
 
-<p align="justify">I am Fidel Essuan Nyameke, a contributor to the Building and Data cleaning team. Our work is identified with collecting all points of interest,dumping refuse area, flood history, health facilities, schools with the exception of drains which is carried out by another team.
+<p align="justify">I am Fidel Essuan Nyameke, a contributor to the Building and Data cleaning team. Our work is identified with collecting all points of interest,dumping waste area, flood history, health facilities, schools with the exception of drains which is carried out by another team.
 We use simple multiple tools to enhance our data collection. Example of such tools are <a href="https://opendatakit.org/">Open Data Kit</a> (ODK) and <a href="http://openmapkit.org/">Open Map Kit</a> (OMK). These tools made it easier to collect data from the field since the procedure was paperless, assuring its quality.
 Our second phase of mapping was in Akweteyman. The testing was started on Friday, 25th of January 2019.
 We recorded a few issues that were resolved this gave the team the Green light to start the field Data collection.</p>
