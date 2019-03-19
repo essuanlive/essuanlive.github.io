@@ -19,32 +19,32 @@ When editing check for dates, linked pages, referenced links, etc. This makes th
 
 Search for "page name" wiki whiles you’re logged in to the wiki page. To get the article you want to edit.
 
-4. Click on edit
+* Click on edit
 <figure>
-	<img src="{{ '/assets/wiki/1.png' | prepend: site.baseurl }}" alt=""> 
+	<img src="{{ '/assets/wiki/1.png' | prepend: site.baseurl }}" alt="1.png"> 
 	<figcaption>Click on "Edit" to Start Editing</figcaption>
 </figure>
 
-5. By default, it is already using the visual editor setting. Go to the article section.
+* By default, it is already using the visual editor setting. Go to the article section.
 <figure>
-	<img src="{{ '/assets/wiki/2.png' | prepend: site.baseurl }}" alt=""> 
+	<img src="{{ '/assets/wiki/2.png' | prepend: site.baseurl }}" alt="2.png"> 
 	<figcaption>Go to the Article Section to Activate Editing</figcaption>
 </figure>
 
-6. Make sure you have found your source before this by searching for news on the subject on <a href="https://www.google.com/"><Google</a> to verify your sources. (I searched for her birthdays did the math to be sure what the articles are saying is true before adding.) Insert cursor on where you want to reference - I will be referencing her date of birth. Click on cite.
+* Make sure you have found your source before this by searching for news on the subject on <a href="https://www.google.com/"><Google</a> to verify your sources. (I searched for her birthdays did the math to be sure what the articles are saying is true before adding.) Insert cursor on where you want to reference - I will be referencing her date of birth. Click on cite.
 
-7. Add copy URL for the article and paste it to the Cite button pop-up.
+* Add copy URL for the article and paste it to the Cite button pop-up.
 <figure>
-	<img src="{{ '/assets/wiki/4.png' | prepend: site.baseurl }}" alt=""> 
+	<img src="{{ '/assets/wiki/4.png' | prepend: site.baseurl }}" alt="4.png"> 
 	<figcaption>Insert your Citation</figcaption>
 </figure>
 
-8. Click on generate and insert the cite. We can also reuse a cite by following the same procedure but rather we click on Re-use to choose the source. Add if it is already on the page.
+* Click on generate and insert the cite. We can also reuse a cite by following the same procedure but rather we click on Re-use to choose the source. Add if it is already on the page.
 <figure>
-	<img src="{{ '/assets/wiki/5.png' | prepend: site.baseurl }}" alt=""> 
+	<img src="{{ '/assets/wiki/5.png' | prepend: site.baseurl }}" alt="5.png"> 
 	<figcaption>Add URL and Generate </figcaption>
 </figure>
 
-9. Click on "PUBLISH CHANGES" and comment. Your editing will be saved.
+* Click on "PUBLISH CHANGES" and comment. Your editing will be saved.
 
-#Note the tick box Minor Edit is for fewer edits and Watch this page is for tracking to keep watch on the page. This will be further explained when you attend one of our workshops.
+**Note the tick box Minor Edit is for fewer edits and Watch this page is for tracking to keep watch on the page. This will be further explained when you attend one of our workshops**
