@@ -49,4 +49,4 @@ Search for "page name" wiki whiles you’re logged in to the wiki page. To get t
 
 **Note the tick box Minor Edit is for fewer edits and Watch this page is for tracking to keep watch on the page. This will be further explained when you attend one of our workshops**
 
-Join
+Join Wikimedia Ghana User Group <a href="https://wmghug.wordpress.com/">here</a>
