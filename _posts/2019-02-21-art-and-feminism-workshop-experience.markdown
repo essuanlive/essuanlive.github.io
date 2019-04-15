@@ -21,13 +21,13 @@ Search for "page name" wiki whiles you’re logged in to the wiki page. To get t
 
 * Click on edit
 <figure>
-	<img src="{{ '/assets/1.jpg' | prepend: site.baseurl }}" alt=""> 
+	<img src="{{ '/assets/img/1.jpg' | prepend: site.baseurl }}" alt=""> 
 	<figcaption>Click on "Edit" to Start Editing</figcaption>
 </figure>
 
 * By default, "Edit" is already using the visual editor setting. Go to the article section.
 <figure>
-	<img src="{{ '/assets/2.jpg' | prepend: site.baseurl }}" alt="2.jpg"> 
+	<img src="{{ '/assets/img/2.jpg' | prepend: site.baseurl }}" alt="2.jpg"> 
 	<figcaption>Go to the Article Section to Activate Editing</figcaption>
 </figure>
 
@@ -35,13 +35,13 @@ Search for "page name" wiki whiles you’re logged in to the wiki page. To get t
 
 * Copy URL from the external article and paste it to the Cite button pop-up.
 <figure> 
-	<img src="{{ '/assets/4.jpg' | prepend: site.baseurl }}" alt="4.jpg"> 
+	<img src="{{ '/assets/img/4.jpg' | prepend: site.baseurl }}" alt="4.jpg"> 
 	<figcaption>Insert your Citation</figcaption>
 </figure>
 
 * Click on generate and insert the cite. We can also reuse a cite by following the same procedure but rather we click on Re-use to choose the source. Add if it is already on the page.
 <figure>
-	<img src="{{ '/assets/5.png' | prepend: site.baseurl }}" alt="5.jpg"> 
+	<img src="{{ '/assets/img/5.png' | prepend: site.baseurl }}" alt="5.jpg"> 
 	<figcaption>Add URL and Generate </figcaption>
 </figure>
 
