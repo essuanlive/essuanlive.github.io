@@ -35,7 +35,7 @@ Search for "page name" wiki whiles you’re logged in to the wiki page. To get t
 
 * Copy URL from the external article and paste it to the Cite button pop-up.
 <figure>
-	<img src="{{ '/assets/wiki/4.png' | prepend: site.baseurl }}" alt="4.png"> 
+	![My helpful screenshot](/assets/wiki/4.png) 
 	<figcaption>Insert your Citation</figcaption>
 </figure>
 
