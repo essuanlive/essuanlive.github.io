@@ -41,7 +41,7 @@ Search for "page name" wiki whiles you’re logged in to the wiki page. To get t
 
 * Click on generate and insert the cite. We can also reuse a cite by following the same procedure but rather we click on Re-use to choose the source. Add if it is already on the page.
 <figure>
-	<img src="{{ '/assets/img/5.png' | prepend: site.baseurl }}" alt="5.jpg"> 
+	<img src="{{ '/assets/img/5.jpg' | prepend: site.baseurl }}" alt="5.jpg"> 
 	<figcaption>Add URL and Generate </figcaption>
 </figure>
 
