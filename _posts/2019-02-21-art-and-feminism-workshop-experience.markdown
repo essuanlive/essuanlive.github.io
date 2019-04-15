@@ -21,7 +21,7 @@ Search for "page name" wiki whiles you’re logged in to the wiki page. To get t
 
 * Click on edit
 <figure>
-	<img src="{{ '/assets/wiki/1.png' | prepend: site.baseurl }}" style="maxwidth: 200px;" alt="1.png"/> 
+	<img src="{{ '/assets/1.png' | prepend: site.baseurl }}" style="maxwidth: 200px;" alt="1.png"/> 
 	<figcaption>Click on "Edit" to Start Editing</figcaption>
 </figure>
 
